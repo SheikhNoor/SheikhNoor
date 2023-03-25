@@ -1,5 +1,5 @@
 ![MasterHead](https://www.itl.cat/pngfile/big/35-356033_have-some-more-forest-gif.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Md+Nurullah.;I'm+25+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Md+Nurullah.;I'm+21+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnoor&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnoor" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhnoor" alt="sheikhnoor" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
