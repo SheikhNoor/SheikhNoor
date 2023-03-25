@@ -1,7 +1,5 @@
 ![MasterHead](https://www.itl.cat/pngfile/big/35-356033_have-some-more-forest-gif.jpg)
-<h1 align="center">Hi 👋, I'm Md Nurullah</h1>
-<h3 align="center">I'm a Computer Science & Engineering Student.</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Md+Nurullah.;I'm+25+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Studen.;Be+Welcome!!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnoor&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnoor" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhnoor" alt="sheikhnoor" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -19,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-nurullah-1481b7253" target="blank"><img align="center" src="https://accutrainee.com/wp-content/uploads/2017/03/images-linkedin-logo-png-14.png" alt="https://www.linkedin.com/in/md-nurullah-1481b7253" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohammad.nurullah.315" target="blank"><img align="center" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Logo-Facebook-PNG.png" alt="https://www.facebook.com/mohammad.nurullah.315" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/sheikh_nurullah?igshid=n2jhndiwyjc=" target="blank"><img align="center" src="https://s3.amazonaws.com/freebiesupply/large/2x/instagram-icon-white-on-gradient.png" alt="https://instagram.com/sheikh_nurullah?igshid=n2jhndiwyjc=" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-nurullah-1481b7253" target="blank"><img align="center" src="https://accutrainee.com/wp-content/uploads/2017/03/images-linkedin-logo-png-14.png" alt="https://www.linkedin.com/in/md-nurullah-1481b7253" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammad.nurullah.315" target="blank"><img align="center" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Logo-Facebook-PNG.png" alt="https://www.facebook.com/mohammad.nurullah.315" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sheikh_nurullah/" target="blank"><img align="center" src="https://s3.amazonaws.com/freebiesupply/large/2x/instagram-icon-white-on-gradient.png" alt="https://www.instagram.com/sheikh_nurullah/" height="30" width="40" /></a>
 <a href="https://discord.gg/8614" target="blank"><img align="center" src="https://www.autopo.st/wp-content/uploads/2021/03/discord-logo-425x425.png" alt="8614" height="30" width="40" /></a>
 </p>
 
@@ -35,3 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnoor&" alt="sheikhnoor" /></p>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SheikhNoor&bg_color=212121&color=ffffff&line=8c6e8c&point=80dbc0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
