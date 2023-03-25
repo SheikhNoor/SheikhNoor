@@ -1,4 +1,4 @@
-[![MasterHead](https://www.itl.cat/pngfile/big/35-356033_have-some-more-forest-gif.jpg)]
+![MasterHead](https://www.itl.cat/pngfile/big/35-356033_have-some-more-forest-gif.jpg)
 <h1 align="center">Hi 👋, I'm Md Nurullah</h1>
 <h3 align="center">I'm a Computer Science & Engineering Student.</h3>
 
