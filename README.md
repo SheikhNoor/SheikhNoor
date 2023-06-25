@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnoor&" alt="sheikhnoor" /></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SheikhNoor&bg_color=212121&color=ffffff&line=8c6e8c&point=80dbc0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikhnoor&theme=dracula)](https://github.com/sheikhnoor/github-readme-activity-graph)
