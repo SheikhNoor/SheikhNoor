@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/md-nurullah-1481b7253" target="blank"><img align="center" src="https://accutrainee.com/wp-content/uploads/2017/03/images-linkedin-logo-png-14.png" alt="https://www.linkedin.com/in/md-nurullah-1481b7253" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohammad.nurullah.315" target="blank"><img align="center" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Logo-Facebook-PNG.png" alt="https://www.facebook.com/mohammad.nurullah.315" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sheikh_nurullah/" target="blank"><img align="center" src="https://s3.amazonaws.com/freebiesupply/large/2x/instagram-icon-white-on-gradient.png" alt="https://www.instagram.com/sheikh_nurullah/" height="30" width="40" /></a>
 <a href="https://discord.gg/8614" target="blank"><img align="center" src="https://raw.githubusercontent.com/SwiftcordApp/.github/main/res/swiftcord_new_icon.png" alt="8614" height="30" width="40" /></a>
 </p>
 
