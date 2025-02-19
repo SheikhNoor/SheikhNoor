@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-vdUui_OT_Vs/XCb00U8LXQI/AAAAAAAAO1Y/tBf0GXbcNKcuzSTbN9mdUnTyL75zzUgKACLcBGAs/s1600/icons8-python-480.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-vdUui_OT_Vs/XCb00U8LXQI/AAAAAAAAO1Y/tBf0GXbcNKcuzSTbN9mdUnTyL75zzUgKACLcBGAs/s1600/icons8-python-480.png" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnoor&show_icons=true&locale=en&layout=compact" alt="sheikhnoor" /></p>
 
