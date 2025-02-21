@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently study on as a Computer Science student.<br>👯 I’m looking to collaborate on new technology.<br>🌱 I’m currently learning DBMS, algorithms, and blockchain.<br>💬 Ask me about CPP and Python<br>📫 How to reach me mdnurullah.co@gmail.com<br>⚡ Fun fact: I think I'm an Energetic And Happiest person.<br>
+- 🔭 I’m currently study on as a Computer Science student.<br>
+- 👯 I’m looking to collaborate on new technology.<br>
+- 🌱 I’m currently learning DBMS, algorithms, and blockchain.<br>
+- 💬 Ask me about CPP and Python<br>
+- 📫 How to reach me mdnurullah.co@gmail.com<br>
+- ⚡ Fun fact: I think I'm an Energetic And Happiest person.<br>
 
 
 ## 🌐 Socials:
@@ -22,6 +27,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SheikhNoor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![Md Nurullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikhnoor&theme=dracula)](https://github.com/sheikhnoor/github-readme-activity-graph)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SheikhNoor&icon=0&color=0)](https://visitcount.itsvg.in)
