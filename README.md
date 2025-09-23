@@ -1,8 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently study on as a Computer Science student.<br>
+- 💫 About Me:<br>
+- 🎓 I have completed my graduation in Computer Science.<br>
+- 👨‍💻 I'm passionate about coding, especially in Python and C++.<br>
 - 👯 I’m looking to collaborate on new technology.<br>
 - 🌱 I’m currently learning DBMS, algorithms, and blockchain.<br>
-- 💬 Ask me about CPP and Python<br>
+- 💬 Ask me about CPP, Python and Data Analytics<br>
 - 📫 How to reach me mdnurullah.co@gmail.com<br>
 - ⚡ Fun fact: I think I'm an Energetic And Happiest person.<br>
 
